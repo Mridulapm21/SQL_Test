@@ -1,0 +1,16 @@
+PolicyholderID,Relation,TotalClaims
+1,Self,2
+1,Spouse,1
+1,Child,0
+3,Self,0
+3,Father,3
+3,Mother,2
+4,Self,1
+4,Spouse,0
+4,Child,1
+4,Child,2
+6,Self,0
+6,Father,4
+6,Spouse,2
+6,Child,0
+6,Child,1
